@@ -1,0 +1,47 @@
+h1 {
+  font-family: "Encode Sans SC", sans-serif;
+  padding: 20px;
+  text-align: center;
+  color: darkgray;
+}
+h2 {
+  font-family: "Encode Sans SC", sans-serif;
+  text-align: center;
+  padding: 10px;
+}
+h3 {
+  text-align: center;
+  padding: 20px;
+  font-family: "Encode Sans SC", sans-serif;
+}
+
+h4 {
+  text-align: center;
+  font-family: "Encode Sans SC", sans-serif;
+  font-size: large;
+}
+.search-form {
+  text-align: center;
+}
+.search {
+  shadow: 20px;
+  text-align: center;
+  border-radius: 10pt;
+}
+#locationButton {
+  border-radius: 10pt;
+  text-align: center;
+  padding: 3px;
+}
+
+.row row-cols-1 row-cols-md-3 g-4 {
+  display: block;
+  margin: 0 auto;
+  padding: 1opx 20px 10px 20px;
+}
+footer {
+  color: purple;
+
+  text-align: center;
+  margin: auto 0;
+}
